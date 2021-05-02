@@ -8,5 +8,5 @@ In Jenkins' agent configuration in the browser, configure the Launch method:
 
 ```sh
 > chmod 755 start-agent.sh
-> ./start-agent.sh <your-jenkins-agent-ssh-pubkey>
+> ./start-agent.sh "<your-jenkins-agent-ssh-pubkey>"
 ```
